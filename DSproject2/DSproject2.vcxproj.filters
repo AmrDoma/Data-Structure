@@ -54,6 +54,9 @@
     <ClCompile Include="..\..\..\..\OneDrive\Desktop\DS attempt 2\Scheduler\TRM.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\OneDrive\Desktop\DS attempt 2\FCFS.h">

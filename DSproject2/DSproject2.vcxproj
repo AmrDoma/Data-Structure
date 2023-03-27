@@ -143,6 +143,7 @@
     <ClCompile Include="..\..\..\..\OneDrive\Desktop\DS attempt 2\Scheduler\TRM.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Desktop\DS attempt 2\SJF.cpp" />
     <ClCompile Include="..\..\..\..\OneDrive\Desktop\DS attempt 2\UI.cpp" />
+    <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\OneDrive\Desktop\DS attempt 2\FCFS.h" />
